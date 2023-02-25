@@ -1,0 +1,15 @@
+.form {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 12px;
+    margin: 20px;
+    color: blanchedalmond;
+    gap: 20px;
+    border-radius: 10px;
+    border-color: yellow;
+}
+
+.button {
+    background-color: blue;
+
+}
